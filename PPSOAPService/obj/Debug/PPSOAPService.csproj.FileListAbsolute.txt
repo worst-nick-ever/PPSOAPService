@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\bin\PPSOAPService.dll.config
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\bin\PPSOAPService.dll
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\bin\PPSOAPService.pdb
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\obj\Debug\PPSOAPService.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\obj\Debug\PPSOAPService.dll
+c:\users\petko\documents\visual studio 2013\Projects\PPProjectRESTService\PPSOAPService\obj\Debug\PPSOAPService.pdb
